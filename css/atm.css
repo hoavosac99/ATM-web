@@ -1,0 +1,144 @@
+.card-title {
+    margin-bottom: .75rem;
+    text-align: center;
+}
+img.ibr{
+    margin-left: 23%;
+    width: 600px;
+    height: 450px;
+}
+.left {
+    text-decoration: none;
+  
+    width: 241px;
+    position: absolute;
+    margin-top: -431px;
+    
+}
+.left ul {
+    margin-left: -57px;
+}
+.left ul li {
+    width: 225px;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    position: relative;
+}
+.right {
+    position: absolute;
+    margin-top: -500px;
+    right: 3px;
+    margin-top: -431px;
+}
+li {
+    list-style: none;
+    margin-bottom: 75px;
+    text-decoration: none;
+    background-color: azure;
+    
+}
+a {
+    text-decoration: none !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #845dd8;
+    border-color: #007bff;
+    width: 100%;
+}
+.btn-primary:hover {
+    background-color: #6a2af3 ;
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    text-align: center;
+    background-color: #845dd8;
+    border-radius: 20px;
+    color: #e9eaf3;
+}
+.alert.alert-success.alert-dismissible {
+    width: 50%;
+    margin-left: 20%;
+    margin-bottom: 147px;
+    position: absolute;
+    bottom: 85px;
+    height: 32%;
+    visibility: hidden;
+    z-index: 3;
+}
+/* #tb1,#tb2,#tb3,#tb4,#tb5,#tb6,#tb7 {
+    visibility: hidden;
+} */
+.ibtnyes {
+    width: 30%;
+    position: absolute;
+    left: 30px;
+    bottom: 15px;
+}
+.ibtnno {
+    width: 30%;
+    position: absolute;
+    
+    bottom: 15px;
+    left: 361px;
+}
+strong {
+    font-weight: bolder;
+    font-size: 34px;
+}
+.hien {
+    visibility: visible;
+}
+.an {
+    visibility: hidden;
+}
+#tb {
+    visibility: visible;
+}
+.card.icard {
+    background-image: url(../image/br.jpg);
+    background-size: 990px;
+    background-size: 1114px;
+    background-position: -3px -144px;
+    
+}
+img.logo {
+    width: 180px;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+    padding-top: 33px;
+    color: #4c2b94;
+}
+button#chon7 {
+    width: 196px;
+}
+.right ul li {
+    width: 199px;
+}
+.alert-success {
+    color: #155724;
+    background-color: #bdb4d2;
+    border-color: #c3e6cb;
+}
+.left.l1 {
+    margin-left: 25%;
+}
+.right.r1 {
+    margin-right: 31%;
+}
+#lop {
+    position: absolute;
+    width: 100%;
+    height: 91%;
+    background-color: rgb(70, 137, 224);
+    z-index: 1;
+    top: 50px;
+    left: 0px;
+    opacity: 0.2;
+}

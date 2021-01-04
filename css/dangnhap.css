@@ -1,0 +1,92 @@
+.card-title {
+    margin-bottom: .75rem;
+    text-align: center;
+}
+.card-title {
+    margin-bottom: .75rem;
+    text-align: center;
+    background-color: #845dd8;
+    border-radius: 20px;
+    color: #e9eaf3;
+}
+form {
+    width: 500px;
+    height: 100px;
+   
+    margin-left: 40%;
+    margin-top: 130px;
+}
+input[type="text"] {
+    margin-bottom: 35px;
+}
+input.btn.btn-primary {
+    margin-left: 0;
+    margin-top: 25px;
+    width: 182px;
+}
+.card {
+    height: 532px;
+}
+li {
+    list-style: none;
+    margin-bottom: 48px;
+    color: #765fa9;
+   
+}
+
+.left {
+    padding-left: 25%;
+    margin-top: 117px;
+    position: absolute;
+}
+.alert.alert-success.alert-dismissible {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 184px;
+}
+a.btn.btn-primary {
+    margin-left: 427px;
+    margin-bottom: -217px;
+    width: 182px;
+}
+input[type="password"] {
+    margin-bottom: 35px;
+}
+.icard {
+    background-image: url(../image/br.jpg);
+    background-size: 990px;
+    background-size: 1114px;
+    background-position: -3px -144px;
+}
+input.btn.btn-primary {
+    margin-left: 0;
+    margin-top: 25px;
+    width: 182px;
+    background-color: #845dd8 !important;
+}
+a.btn.btn-primary {
+    background-color: #845dd8 !important;
+}
+img.logo {
+    width: 180px;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+    padding-top: 33px;
+    color: #4c2b94;
+}
+div#alert {
+    margin-top: 277px;
+}
+div#alert1 {
+    margin-top: -193px;
+}
+div#alert2 {
+    margin-top: -279px;
+}
+input.btn.btn-primary:hover {
+    background-color: #5f20e6 !important;
+}
+a.btn.btn-primary:hover {
+    background-color: #5f20e6 !important;
+}
